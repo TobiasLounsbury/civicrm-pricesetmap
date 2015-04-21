@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<extension key="org.botany.pricesetmap" type="module">
+  <file>pricesetmap</file>
+  <name>PriceSet Mapping</name>
+  <description>This extension maps Price Set line items to contact data fields</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>tobiaslounsbury</author>
+    <email>tobiaslounsbury@gmail.com</email>
+  </maintainer>
+  <releaseDate>2014-06-21</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.2</ver>
+  </compatibility>
+  <comments>This is a new, undeveloped module</comments>
+  <civix>
+    <namespace>CRM/Pricesetmap</namespace>
+  </civix>
+</extension>

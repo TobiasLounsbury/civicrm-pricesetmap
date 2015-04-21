@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/admin/contribute/pricesetmap</path>
+    <page_callback>CRM_Pricesetmap_Form_PriceSetMap</page_callback>
+    <title>PriceSetMap</title>
+    <access_arguments>administer CiviCRM</access_arguments>
+  </item>
+</menu>
